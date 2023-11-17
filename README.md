@@ -1,4 +1,5 @@
 # Link Prediction on High-Dimensional Multiplex Graphs
+Checkout https://github.com/abdouskamel/HMGE for the extended version.
 
 ## Requirements
 Python 3.6 <br />
